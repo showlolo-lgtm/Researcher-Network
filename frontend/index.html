@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Researcher Network</title>
+  <link rel="stylesheet" href="/static/css/styles.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <div class="header">
+    <div>
+      <h1>AI Researcher Network</h1>
+      <div class="subtitle">Tracking influence and relationships among top AI researchers from China</div>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="tab-graph">Network Graph</button>
+    <button class="tab-btn" data-tab="tab-dashboard">Dashboard</button>
+  </div>
+
+  <!-- Graph Tab -->
+  <div id="tab-graph" class="tab-panel active">
+    <div class="graph-layout">
+      <div class="graph-sidebar">
+        <h3>Filters</h3>
+        <form id="filter-form">
+          <div class="filter-group">
+            <label>Min h-index</label>
+            <input type="number" id="filter-h-index" placeholder="e.g. 30" min="0" />
+          </div>
+          <div class="filter-group">
+            <label>Research Area</label>
+            <input type="text" id="filter-area" placeholder="e.g. Computer Vision" />
+          </div>
+          <div class="filter-group">
+            <label>Max Relationship Tier</label>
+            <select id="filter-tier">
+              <option value="3">All tiers</option>
+              <option value="1">Tier 1 only (closest)</option>
+              <option value="2">Tier 1-2</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label>Max Nodes</label>
+            <input type="number" id="filter-limit" placeholder="200" value="200" min="10" max="1000" />
+          </div>
+          <div class="filter-actions">
+            <button type="submit" class="btn btn-primary">Apply</button>
+            <button type="button" id="btn-reset" class="btn btn-secondary">Reset</button>
+          </div>
+        </form>
+
+        <div id="detail-panel"></div>
+      </div>
+      <div id="graph-container"></div>
+    </div>
+  </div>
+
+  <!-- Dashboard Tab -->
+  <div id="tab-dashboard" class="tab-panel">
+    <div class="dashboard">
+      <div class="stats-row">
+        <div class="stat-card">
+          <div class="number" id="stat-total">0</div>
+          <div class="label">Researchers</div>
+        </div>
+        <div class="stat-card">
+          <div class="number" id="stat-avg-h">0</div>
+          <div class="label">Avg h-index</div>
+        </div>
+        <div class="stat-card">
+          <div class="number" id="stat-max-h">0</div>
+          <div class="label">Max h-index</div>
+        </div>
+        <div class="stat-card">
+          <div class="number" id="stat-citations">0</div>
+          <div class="label">Total Citations</div>
+        </div>
+      </div>
+
+      <div class="dashboard-grid">
+        <div class="card full-width">
+          <h3>Top Researchers by h-index</h3>
+          <table class="rankings-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Affiliation</th>
+                <th>h-index</th>
+                <th>Citations</th>
+                <th>Papers</th>
+              </tr>
+            </thead>
+            <tbody id="rankings-body"></tbody>
+          </table>
+        </div>
+
+        <div class="card">
+          <h3>Research Area Distribution</h3>
+          <div id="area-chart"></div>
+        </div>
+
+        <div class="card">
+          <h3>Papers Over Time</h3>
+          <div id="papers-trend"></div>
+        </div>
+
+        <div class="card">
+          <h3>Star Papers (Most Cited)</h3>
+          <div id="top-papers-list"></div>
+        </div>
+
+        <div class="card">
+          <h3>Most Connected Researchers</h3>
+          <div id="collaborators-list"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/js/api.js"></script>
+  <script src="/static/js/graph.js"></script>
+  <script src="/static/js/dashboard.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,177 @@
+[
+  {"name": "Andrew Chi-Chih Yao", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Jun Zhu", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Jie Tang", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Zhiyuan Liu", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Maosong Sun", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Bo Zhang", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Huanbo Luan", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Jiwen Lu", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Yongjin Liu", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+  {"name": "Wenwu Zhu", "semantic_scholar_id": null, "affiliation_hint": "Tsinghua University", "institution_type": "university"},
+
+  {"name": "Yizhou Wang", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Liwei Wang", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Ying Nian Wu", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Baoquan Chen", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Bin Xu", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Xu Sun", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Zhouchen Lin", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+  {"name": "Yizhou Yu", "semantic_scholar_id": null, "affiliation_hint": "Peking University", "institution_type": "university"},
+
+  {"name": "Deng Cai", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+  {"name": "Xiaofei He", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+  {"name": "Fei Wu", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+  {"name": "Yi Yang", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+  {"name": "Mingli Song", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+  {"name": "Siliang Tang", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+  {"name": "Yueting Zhuang", "semantic_scholar_id": null, "affiliation_hint": "Zhejiang University", "institution_type": "university"},
+
+  {"name": "Xiaokang Yang", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+  {"name": "Junchi Yan", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+  {"name": "Cewu Lu", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+  {"name": "Weinan Zhang", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+  {"name": "Yong Yu", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+  {"name": "Kai Yu", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+  {"name": "Bingbing Ni", "semantic_scholar_id": null, "affiliation_hint": "Shanghai Jiao Tong University", "institution_type": "university"},
+
+  {"name": "Zhongfei Zhang", "semantic_scholar_id": null, "affiliation_hint": "Fudan University", "institution_type": "university"},
+  {"name": "Xiangyang Xue", "semantic_scholar_id": null, "affiliation_hint": "Fudan University", "institution_type": "university"},
+  {"name": "Yanwei Fu", "semantic_scholar_id": null, "affiliation_hint": "Fudan University", "institution_type": "university"},
+  {"name": "Zhongyu Wei", "semantic_scholar_id": null, "affiliation_hint": "Fudan University", "institution_type": "university"},
+  {"name": "Xipeng Qiu", "semantic_scholar_id": null, "affiliation_hint": "Fudan University", "institution_type": "university"},
+  {"name": "Xuanjing Huang", "semantic_scholar_id": null, "affiliation_hint": "Fudan University", "institution_type": "university"},
+
+  {"name": "Nenghai Yu", "semantic_scholar_id": null, "affiliation_hint": "University of Science and Technology of China", "institution_type": "university"},
+  {"name": "Qi Tian", "semantic_scholar_id": null, "affiliation_hint": "University of Science and Technology of China", "institution_type": "university"},
+  {"name": "Enhong Chen", "semantic_scholar_id": null, "affiliation_hint": "University of Science and Technology of China", "institution_type": "university"},
+  {"name": "Xiang Bai", "semantic_scholar_id": null, "affiliation_hint": "University of Science and Technology of China", "institution_type": "university"},
+  {"name": "Weishi Zheng", "semantic_scholar_id": null, "affiliation_hint": "University of Science and Technology of China", "institution_type": "university"},
+  {"name": "Yongdong Zhang", "semantic_scholar_id": null, "affiliation_hint": "University of Science and Technology of China", "institution_type": "university"},
+
+  {"name": "Jiebo Luo", "semantic_scholar_id": null, "affiliation_hint": "Nanjing University", "institution_type": "university"},
+  {"name": "Gao Huang", "semantic_scholar_id": null, "affiliation_hint": "Nanjing University", "institution_type": "university"},
+  {"name": "Zhi-Hua Zhou", "semantic_scholar_id": null, "affiliation_hint": "Nanjing University", "institution_type": "university"},
+  {"name": "Yang Yu", "semantic_scholar_id": null, "affiliation_hint": "Nanjing University", "institution_type": "university"},
+  {"name": "De-Chuan Zhan", "semantic_scholar_id": null, "affiliation_hint": "Nanjing University", "institution_type": "university"},
+  {"name": "Min-Ling Zhang", "semantic_scholar_id": null, "affiliation_hint": "Nanjing University", "institution_type": "university"},
+
+  {"name": "Weihua Li", "semantic_scholar_id": null, "affiliation_hint": "Harbin Institute of Technology", "institution_type": "university"},
+  {"name": "Ting Liu", "semantic_scholar_id": null, "affiliation_hint": "Harbin Institute of Technology", "institution_type": "university"},
+  {"name": "Wanxiang Che", "semantic_scholar_id": null, "affiliation_hint": "Harbin Institute of Technology", "institution_type": "university"},
+  {"name": "Ming-Ming Cheng", "semantic_scholar_id": null, "affiliation_hint": "Harbin Institute of Technology", "institution_type": "university"},
+  {"name": "Deyi Xiong", "semantic_scholar_id": null, "affiliation_hint": "Harbin Institute of Technology", "institution_type": "university"},
+
+  {"name": "Nanning Zheng", "semantic_scholar_id": null, "affiliation_hint": "Xi'an Jiaotong University", "institution_type": "university"},
+  {"name": "Jinjun Wang", "semantic_scholar_id": null, "affiliation_hint": "Xi'an Jiaotong University", "institution_type": "university"},
+  {"name": "Badong Chen", "semantic_scholar_id": null, "affiliation_hint": "Xi'an Jiaotong University", "institution_type": "university"},
+  {"name": "Pengfei Zhu", "semantic_scholar_id": null, "affiliation_hint": "Xi'an Jiaotong University", "institution_type": "university"},
+
+  {"name": "Zongqing Lu", "semantic_scholar_id": null, "affiliation_hint": "Beihang University", "institution_type": "university"},
+  {"name": "Haichao Zhang", "semantic_scholar_id": null, "affiliation_hint": "Beihang University", "institution_type": "university"},
+  {"name": "Tongliang Liu", "semantic_scholar_id": null, "affiliation_hint": "Beihang University", "institution_type": "university"},
+  {"name": "Si Liu", "semantic_scholar_id": null, "affiliation_hint": "Beihang University", "institution_type": "university"},
+
+  {"name": "Mao Zheng", "semantic_scholar_id": null, "affiliation_hint": "Wuhan University", "institution_type": "university"},
+  {"name": "Bo Du", "semantic_scholar_id": null, "affiliation_hint": "Wuhan University", "institution_type": "university"},
+  {"name": "Zheng-Jun Zha", "semantic_scholar_id": null, "affiliation_hint": "Wuhan University", "institution_type": "university"},
+
+  {"name": "Wenyu Liu", "semantic_scholar_id": null, "affiliation_hint": "Huazhong University of Science and Technology", "institution_type": "university"},
+  {"name": "Xiang Bai", "semantic_scholar_id": null, "affiliation_hint": "Huazhong University of Science and Technology", "institution_type": "university"},
+  {"name": "Xinggang Wang", "semantic_scholar_id": null, "affiliation_hint": "Huazhong University of Science and Technology", "institution_type": "university"},
+  {"name": "Yongchao Xu", "semantic_scholar_id": null, "affiliation_hint": "Huazhong University of Science and Technology", "institution_type": "university"},
+
+  {"name": "Liang Lin", "semantic_scholar_id": null, "affiliation_hint": "Sun Yat-sen University", "institution_type": "university"},
+  {"name": "Xiaodan Liang", "semantic_scholar_id": null, "affiliation_hint": "Sun Yat-sen University", "institution_type": "university"},
+  {"name": "Guanbin Li", "semantic_scholar_id": null, "affiliation_hint": "Sun Yat-sen University", "institution_type": "university"},
+
+  {"name": "Wenjun Zhang", "semantic_scholar_id": null, "affiliation_hint": "Southeast University", "institution_type": "university"},
+  {"name": "Yun Liu", "semantic_scholar_id": null, "affiliation_hint": "Southeast University", "institution_type": "university"},
+
+  {"name": "Wen Ji", "semantic_scholar_id": null, "affiliation_hint": "Renmin University of China", "institution_type": "university"},
+  {"name": "Wayne Xin Zhao", "semantic_scholar_id": null, "affiliation_hint": "Renmin University of China", "institution_type": "university"},
+  {"name": "Ji-Rong Wen", "semantic_scholar_id": null, "affiliation_hint": "Renmin University of China", "institution_type": "university"},
+
+  {"name": "Qinghua Hu", "semantic_scholar_id": null, "affiliation_hint": "Tianjin University", "institution_type": "university"},
+  {"name": "Xiangyuan Lan", "semantic_scholar_id": null, "affiliation_hint": "Tianjin University", "institution_type": "university"},
+
+  {"name": "Liqiang Nie", "semantic_scholar_id": null, "affiliation_hint": "Nankai University", "institution_type": "university"},
+  {"name": "Ming-Hsuan Yang", "semantic_scholar_id": null, "affiliation_hint": "Nankai University", "institution_type": "university"},
+
+  {"name": "Chongzhi Zhang", "semantic_scholar_id": null, "affiliation_hint": "Tongji University", "institution_type": "university"},
+
+  {"name": "Daniel Zeng", "semantic_scholar_id": null, "affiliation_hint": "Beijing Institute of Technology", "institution_type": "university"},
+
+  {"name": "Mingkui Tan", "semantic_scholar_id": null, "affiliation_hint": "South China University of Technology", "institution_type": "university"},
+  {"name": "Wai Keung Wong", "semantic_scholar_id": null, "affiliation_hint": "South China University of Technology", "institution_type": "university"},
+  {"name": "Caixia Yuan", "semantic_scholar_id": null, "affiliation_hint": "South China University of Technology", "institution_type": "university"},
+
+  {"name": "Tieniu Tan", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Automation", "institution_type": "research_institute"},
+  {"name": "Kaiqi Huang", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Automation", "institution_type": "research_institute"},
+  {"name": "Zhenan Sun", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Automation", "institution_type": "research_institute"},
+  {"name": "Ran He", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Automation", "institution_type": "research_institute"},
+  {"name": "Shiguang Shan", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Computing Technology", "institution_type": "research_institute"},
+  {"name": "Xilin Chen", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Computing Technology", "institution_type": "research_institute"},
+  {"name": "Cheng Wu", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Computing Technology", "institution_type": "research_institute"},
+  {"name": "Huimin Ma", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Automation", "institution_type": "research_institute"},
+  {"name": "Yunhong Wang", "semantic_scholar_id": null, "affiliation_hint": "Chinese Academy of Sciences - Institute of Automation", "institution_type": "research_institute"},
+
+  {"name": "Jifeng Dai", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+  {"name": "Han Hu", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+  {"name": "Baining Guo", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+  {"name": "Jian Sun", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+  {"name": "Tie-Yan Liu", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+  {"name": "Tao Qin", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+  {"name": "Fang Wen", "semantic_scholar_id": null, "affiliation_hint": "Microsoft Research Asia", "institution_type": "research_institute"},
+
+  {"name": "Yu Qiao", "semantic_scholar_id": null, "affiliation_hint": "Shanghai AI Laboratory", "institution_type": "research_institute"},
+  {"name": "Dahua Lin", "semantic_scholar_id": null, "affiliation_hint": "Shanghai AI Laboratory", "institution_type": "research_institute"},
+  {"name": "Wanli Ouyang", "semantic_scholar_id": null, "affiliation_hint": "Shanghai AI Laboratory", "institution_type": "research_institute"},
+  {"name": "Ziwei Liu", "semantic_scholar_id": null, "affiliation_hint": "Shanghai AI Laboratory", "institution_type": "research_institute"},
+  {"name": "Ping Luo", "semantic_scholar_id": null, "affiliation_hint": "Shanghai AI Laboratory", "institution_type": "research_institute"},
+
+  {"name": "Gao Qian", "semantic_scholar_id": null, "affiliation_hint": "Peng Cheng Laboratory", "institution_type": "research_institute"},
+
+  {"name": "Haifeng Wang", "semantic_scholar_id": null, "affiliation_hint": "Baidu Research", "institution_type": "company"},
+  {"name": "Hua Wu", "semantic_scholar_id": null, "affiliation_hint": "Baidu Research", "institution_type": "company"},
+  {"name": "Hao Tian", "semantic_scholar_id": null, "affiliation_hint": "Baidu Research", "institution_type": "company"},
+  {"name": "Wei Li", "semantic_scholar_id": null, "affiliation_hint": "Baidu Research", "institution_type": "company"},
+
+  {"name": "Xiaofeng Ren", "semantic_scholar_id": null, "affiliation_hint": "Alibaba DAMO Academy", "institution_type": "company"},
+  {"name": "Rong Jin", "semantic_scholar_id": null, "affiliation_hint": "Alibaba DAMO Academy", "institution_type": "company"},
+  {"name": "Luo Si", "semantic_scholar_id": null, "affiliation_hint": "Alibaba DAMO Academy", "institution_type": "company"},
+  {"name": "Chang Zhou", "semantic_scholar_id": null, "affiliation_hint": "Alibaba DAMO Academy", "institution_type": "company"},
+  {"name": "Jingren Zhou", "semantic_scholar_id": null, "affiliation_hint": "Alibaba DAMO Academy", "institution_type": "company"},
+
+  {"name": "Di He", "semantic_scholar_id": null, "affiliation_hint": "Tencent AI Lab", "institution_type": "company"},
+  {"name": "Wei Liu", "semantic_scholar_id": null, "affiliation_hint": "Tencent AI Lab", "institution_type": "company"},
+  {"name": "Tong Zhang", "semantic_scholar_id": null, "affiliation_hint": "Tencent AI Lab", "institution_type": "company"},
+  {"name": "Yu Li", "semantic_scholar_id": null, "affiliation_hint": "Tencent AI Lab", "institution_type": "company"},
+
+  {"name": "Lei Li", "semantic_scholar_id": null, "affiliation_hint": "ByteDance AI Lab", "institution_type": "company"},
+  {"name": "Hang Li", "semantic_scholar_id": null, "affiliation_hint": "ByteDance AI Lab", "institution_type": "company"},
+  {"name": "Dacheng Tao", "semantic_scholar_id": null, "affiliation_hint": "ByteDance AI Lab", "institution_type": "company"},
+
+  {"name": "Xiaogang Wang", "semantic_scholar_id": null, "affiliation_hint": "SenseTime", "institution_type": "company"},
+  {"name": "Xiaoou Tang", "semantic_scholar_id": null, "affiliation_hint": "SenseTime", "institution_type": "company"},
+  {"name": "Naiyan Wang", "semantic_scholar_id": null, "affiliation_hint": "SenseTime", "institution_type": "company"},
+  {"name": "Jingdong Wang", "semantic_scholar_id": null, "affiliation_hint": "SenseTime", "institution_type": "company"},
+
+  {"name": "Yichen Wei", "semantic_scholar_id": null, "affiliation_hint": "Megvii", "institution_type": "company"},
+  {"name": "Jian Sun", "semantic_scholar_id": null, "affiliation_hint": "Megvii", "institution_type": "company"},
+  {"name": "Gang Yu", "semantic_scholar_id": null, "affiliation_hint": "Megvii", "institution_type": "company"},
+  {"name": "Xiangyu Zhang", "semantic_scholar_id": null, "affiliation_hint": "Megvii", "institution_type": "company"},
+
+  {"name": "Bo Xu", "semantic_scholar_id": null, "affiliation_hint": "iFlytek", "institution_type": "company"},
+  {"name": "Jianfeng Liu", "semantic_scholar_id": null, "affiliation_hint": "iFlytek", "institution_type": "company"},
+
+  {"name": "Wei Zhang", "semantic_scholar_id": null, "affiliation_hint": "Huawei Noah's Ark Lab", "institution_type": "company"},
+  {"name": "Zhenguo Li", "semantic_scholar_id": null, "affiliation_hint": "Huawei Noah's Ark Lab", "institution_type": "company"},
+  {"name": "Maoguo Gong", "semantic_scholar_id": null, "affiliation_hint": "Huawei Noah's Ark Lab", "institution_type": "company"},
+
+  {"name": "Tao Mei", "semantic_scholar_id": null, "affiliation_hint": "JD AI Research", "institution_type": "company"},
+  {"name": "Bowen Zhou", "semantic_scholar_id": null, "affiliation_hint": "JD AI Research", "institution_type": "company"},
+
+  {"name": "Chao Zhang", "semantic_scholar_id": null, "affiliation_hint": "Xiaomi AI Lab", "institution_type": "company"},
+  {"name": "Daniel Povey", "semantic_scholar_id": null, "affiliation_hint": "Xiaomi AI Lab", "institution_type": "company"}
+]
